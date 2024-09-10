@@ -3,6 +3,7 @@ let dados = [
             titulo : "Linguagem Python",
             descricao: "Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe simples e legível, tornando-a ideal para iniciantes e para projetos que exigem rapidez no desenvolvimento. É amplamente utilizada em diversas áreas, como ciência de dados, machine learning, desenvolvimento web e automação.",
             link : "https://docs.python.org/3/",
+            tags: ""
     
     },
         {
